@@ -1,0 +1,12 @@
+<resources>
+    <color name="purple_500">#6200EE</color>
+    
+    <!-- Smile Hair Clinic Theme Colors -->
+    <color name="smile_hair_primary">#1A237E</color>
+    <color name="smile_hair_primary_dark">#0D47A1</color>
+    <color name="smile_hair_primary_light">#3F51B5</color>
+    <color name="smile_hair_accent">#FFC107</color>
+    <color name="smile_hair_background">#F5F5F5</color>
+    <color name="smile_hair_text_primary">#212121</color>
+    <color name="smile_hair_text_secondary">#757575</color>
+</resources>

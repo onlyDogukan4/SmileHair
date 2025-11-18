@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.SmileHair" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/smile_hair_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/smile_hair_primary</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006179777401",
+    "project_id": "mobile-app-7b76d",
+    "storage_bucket": "mobile-app-7b76d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006179777401:android:a842188614b937e059cda8",
+        "android_client_info": {
+          "package_name": "com.smilehair.selfcapture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12gRgpGzbncEEbhU54tgZaORsAiVVFQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

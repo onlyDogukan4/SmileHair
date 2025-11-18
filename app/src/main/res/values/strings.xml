@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmileHair Self-Capture</string>
+    <string name="camera_permission_required">Kamera izni gerekli.</string>
+    <string name="camera_ready">Kamera hazır. %1$s için hazırlanın.</string>
+    <string name="camera_failed">Kamera başlatılamadı: %1$s</string>
+    <string name="position_correct">Pozisyon doğru! Hazır olun…</string>
+    <string name="face_detecting">Yüz algılanıyor…</string>
+    <string name="position_perfect">✓ Pozisyon doğru! Sabit kalın…</string>
+    <string name="dont_move_capturing">Kıpırdamayın, fotoğrafınız çekiliyor.</string>
+    <string name="maintain_position">Pozisyonu koruyun, tekrar hizalayın.</string>
+    <string name="capture_error">Çekim hatası: %1$s</string>
+    <string name="photo_saved">✓ %1$s kaydedildi!</string>
+    <string name="next_angle">Sıradaki: %1$s</string>
+    <string name="not_all_photos">Tüm fotoğraflar çekilmedi. Lütfen tekrar deneyin.</string>
+</resources>
