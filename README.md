@@ -1,4 +1,4 @@
-🚀 SmileHair Self-Capture: Klinik Veri Standartlarında Devrim
+ 🚀 SmileHair Self-Capture: Klinik Veri Standartlarında Devrim
 ✨ Proje Özeti: Yapay Zeka Destekli Hassas Görüntüleme Sistemi
 SmileHair Self-Capture, saç ekimi ve dermatolojik analiz süreçlerinin kritik ön koşulu olan standartlaştırılmış fotoğraf çekimini otomatikleştiren, yapay zeka destekli bir Android prototipidir. Bu çözüm, manuel çekim hatalarını ve klinik süreçlerdeki veri tutarsızlığını ortadan kaldırarak hasta kayıtlarının ve tedavi öncesi analizlerin kalitesini kökten iyileştirmektedir.
 
